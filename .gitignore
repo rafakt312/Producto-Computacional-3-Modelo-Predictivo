@@ -16,3 +16,4 @@ __pycache__/
 # Datos (¡Importante si son grandes!)
 *.csv
 *.zip
+rf_model.joblib
